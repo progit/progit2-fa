@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8867bbe-9903-4db0-a159-f9862e2f5a6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/enhancement_idea.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/dependabot.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/pull_request_template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/pr-build.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/release-on-merge.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CITATION.cff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SECURITY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dependabot/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-git-in-other-environments.asc" beforeDir="false" afterPath="$PROJECT_DIR$/A-git-in-other-environments.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B-embedding-git-in-your-applications.asc" beforeDir="false" afterPath="$PROJECT_DIR$/B-embedding-git-in-your-applications.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C-git-commands.asc" beforeDir="false" afterPath="$PROJECT_DIR$/C-git-commands.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.asc" beforeDir="false" afterPath="$PROJECT_DIR$/README.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rakefile" beforeDir="false" afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TRANSLATING.md" beforeDir="false" afterPath="$PROJECT_DIR$/TRANSLATING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlas.json" beforeDir="false" afterPath="$PROJECT_DIR$/atlas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/01-introduction/sections/about-version-control.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/01-introduction/sections/about-version-control.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/01-introduction/sections/first-time-setup.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/01-introduction/sections/first-time-setup.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/01-introduction/sections/help.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/01-introduction/sections/help.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/01-introduction/sections/history.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/01-introduction/sections/history.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/01-introduction/sections/installing.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/01-introduction/sections/installing.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/01-introduction/sections/what-is-git.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/01-introduction/sections/what-is-git.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/02-git-basics/sections/aliases.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/02-git-basics/sections/aliases.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/02-git-basics/sections/getting-a-repository.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/02-git-basics/sections/getting-a-repository.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/02-git-basics/sections/recording-changes.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/02-git-basics/sections/recording-changes.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/02-git-basics/sections/remotes.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/02-git-basics/sections/remotes.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/02-git-basics/sections/tagging.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/02-git-basics/sections/tagging.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/02-git-basics/sections/undoing.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/02-git-basics/sections/undoing.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/02-git-basics/sections/viewing-history.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/02-git-basics/sections/viewing-history.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/03-git-branching/sections/basic-branching-and-merging.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/03-git-branching/sections/basic-branching-and-merging.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/03-git-branching/sections/branch-management.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/03-git-branching/sections/branch-management.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/03-git-branching/sections/nutshell.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/03-git-branching/sections/nutshell.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/03-git-branching/sections/rebasing.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/03-git-branching/sections/rebasing.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/03-git-branching/sections/remote-branches.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/03-git-branching/sections/remote-branches.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/03-git-branching/sections/workflows.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/03-git-branching/sections/workflows.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/04-git-server/sections/generating-ssh-key.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/04-git-server/sections/generating-ssh-key.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/04-git-server/sections/git-daemon.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/04-git-server/sections/git-daemon.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/04-git-server/sections/git-on-a-server.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/04-git-server/sections/git-on-a-server.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/04-git-server/sections/gitlab.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/04-git-server/sections/gitlab.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/04-git-server/sections/gitweb.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/04-git-server/sections/gitweb.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/04-git-server/sections/hosted.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/04-git-server/sections/hosted.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/04-git-server/sections/protocols.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/04-git-server/sections/protocols.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/04-git-server/sections/smart-http.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/04-git-server/sections/smart-http.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/05-distributed-git/sections/contributing.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/05-distributed-git/sections/contributing.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/05-distributed-git/sections/distributed-workflows.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/05-distributed-git/sections/distributed-workflows.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/05-distributed-git/sections/maintaining.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/05-distributed-git/sections/maintaining.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/callouts/1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/callouts/1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/callouts/10.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/callouts/10.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/callouts/2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/callouts/2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/callouts/3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/callouts/3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/callouts/4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/callouts/4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/callouts/5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/callouts/5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/callouts/6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/callouts/6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/callouts/7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/callouts/7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/callouts/8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/callouts/8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/callouts/9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/callouts/9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/sections/1-setting-up-account.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/sections/1-setting-up-account.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/sections/2-contributing.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/sections/2-contributing.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/sections/3-maintaining.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/sections/3-maintaining.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/sections/4-managing-organization.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/sections/4-managing-organization.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/sections/5-scripting.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/sections/5-scripting.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/callouts/1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/callouts/1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/callouts/10.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/callouts/10.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/callouts/2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/callouts/2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/callouts/3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/callouts/3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/callouts/4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/callouts/4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/callouts/5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/callouts/5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/callouts/6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/callouts/6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/callouts/7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/callouts/7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/callouts/8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/callouts/8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/callouts/9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/callouts/9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/git-credential-read-only" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/git-credential-read-only" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/advanced-merging.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/advanced-merging.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/bundling.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/bundling.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/credentials.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/credentials.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/debugging.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/debugging.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/interactive-staging.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/interactive-staging.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/replace.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/replace.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/rerere.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/rerere.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/reset.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/reset.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/revision-selection.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/revision-selection.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/rewriting-history.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/rewriting-history.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/searching.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/searching.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/signing.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/signing.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/stashing-cleaning.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/stashing-cleaning.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/submodules.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/submodules.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/subtree-merges.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/subtree-merges.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/08-customizing-git/sections/attributes.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/08-customizing-git/sections/attributes.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/08-customizing-git/sections/config.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/08-customizing-git/sections/config.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/08-customizing-git/sections/hooks.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/08-customizing-git/sections/hooks.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/08-customizing-git/sections/policy.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/08-customizing-git/sections/policy.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/client-bzr.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/client-hg.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/client-hg.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/client-p4.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/client-p4.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/client-svn.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/client-svn.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/client-tfs.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/import-bzr.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/import-bzr.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/import-custom.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/import-custom.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/import-hg.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/import-hg.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/import-svn.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/import-svn.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/import-tfs.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/import-tfs.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/10-git-internals/sections/environment.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/10-git-internals/sections/environment.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/10-git-internals/sections/maintenance.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/10-git-internals/sections/maintenance.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/10-git-internals/sections/objects.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/10-git-internals/sections/objects.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/10-git-internals/sections/packfiles.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/10-git-internals/sections/packfiles.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/10-git-internals/sections/plumbing-porcelain.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/10-git-internals/sections/plumbing-porcelain.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/10-git-internals/sections/refs.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/10-git-internals/sections/refs.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/10-git-internals/sections/refspec.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/10-git-internals/sections/refspec.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/10-git-internals/sections/transfer-protocols.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/10-git-internals/sections/transfer-protocols.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/bash.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/bash.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/eclipse.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/guis.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/guis.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/jetbrainsides.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/jetbrainsides.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/powershell.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/powershell.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/sublimetext.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/sublimetext.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/visualstudio.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/visualstudio.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/visualstudiocode.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/visualstudiocode.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/zsh.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/A-git-in-other-environments/sections/zsh.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/callouts/1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/callouts/1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/callouts/10.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/callouts/10.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/callouts/2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/callouts/2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/callouts/3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/callouts/3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/callouts/4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/callouts/4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/callouts/5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/callouts/5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/callouts/6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/callouts/6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/callouts/7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/callouts/7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/callouts/8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/callouts/8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/callouts/9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/callouts/9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/sections/dulwich.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/sections/dulwich.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/sections/go-git.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/sections/go-git.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/sections/jgit.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/sections/jgit.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/B-embedding-git/sections/libgit2.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/B-embedding-git/sections/libgit2.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/contributors.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/contributors.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/dedication.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/dedication.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/index.asc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/introduction.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/introduction.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/license.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/license.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/preface_schacon.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/preface_schacon.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callouts/1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/callouts/1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callouts/10.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/callouts/10.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callouts/2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/callouts/2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callouts/3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/callouts/3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callouts/4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/callouts/4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callouts/5.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/callouts/5.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callouts/6.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/callouts/6.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callouts/7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/callouts/7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callouts/8.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/callouts/8.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callouts/9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/callouts/9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03-git-branching.asc" beforeDir="false" afterPath="$PROJECT_DIR$/ch03-git-branching.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch09-git-and-other-systems.asc" beforeDir="false" afterPath="$PROJECT_DIR$/ch09-git-and-other-systems.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diagram-source/progit.sketch" beforeDir="false" afterPath="$PROJECT_DIR$/diagram-source/progit.sketch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/areas.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/areas.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bitnami.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/egit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/git-tfs-ct.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/large-merges-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/large-merges-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/managed-team-flow.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/managed-team-flow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/managed-team-flow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/managed-team-flow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rerere1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/rerere1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/snapshots.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/snapshots.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vs-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/vs-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.asc" beforeDir="false" afterPath="$PROJECT_DIR$/index.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progit.asc" beforeDir="false" afterPath="$PROJECT_DIR$/progit.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/tag_on_master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/status.json" beforeDir="false" afterPath="$PROJECT_DIR$/status.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YasinDehfuli&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="refactor/progit2" />
+                    <option name="lastUsedInstant" value="1748603337" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1748257024" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="hotfix/github-configuartion-signup-form" />
+                    <option name="lastUsedInstant" value="1748256613" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="chore/06-github-farsi" />
+                    <option name="lastUsedInstant" value="1748113591" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/progit/progit2-fa.git&quot;,
+    &quot;accountId&quot;: &quot;2c5e45ef-b411-418f-91be-88e5474bae0a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2xKH4gryIvGmLfvA0jtvfPiYH8Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging refactor/progit2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8867bbe-9903-4db0-a159-f9862e2f5a6f" name="Changes" comment="" />
+      <created>1747679656503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747679656503</updated>
+      <workItem from="1747679657723" duration="670000" />
+      <workItem from="1747680338294" duration="818000" />
+      <workItem from="1747811228021" duration="5737000" />
+      <workItem from="1748005015264" duration="1475000" />
+      <workItem from="1748110021712" duration="1069000" />
+      <workItem from="1748111097776" duration="2930000" />
+      <workItem from="1748256551560" duration="1003000" />
+      <workItem from="1748330691740" duration="315000" />
+      <workItem from="1748601525042" duration="83000" />
+      <workItem from="1748603294411" duration="2858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>

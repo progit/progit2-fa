@@ -1,68 +1,44 @@
-<h1 dir="rtl">همکاری در پروگیت (ویرایش دوم)</h1>
-<h2 dir="rtl">لایسنس (مجوز)</h2>
-<p dir="rtl">
-ترجمه از متن انگلیسی زیر: (متن انگلیسی زیر مرجع قانون است و ترجمه تلاش بر این دارد تا به
-درک آن کمک کند)
-</p>
+# Contributing to Pro Git (2nd Edition)
 
-By opening a pull request to this repository, you agree to provide your work under the [project license](LICENSE.asc).
+## Licensing your work to us
+
+When you open a pull request, you agree to provide your work under the [project license](LICENSE.asc).
 Also, you agree to grant such license of your work as is required for the purposes of future print editions to @ben and @schacon.
 Should your changes appear in a printed edition, you'll be included in the [contributors list](book/contributors.asc).
 
-<p dir="rtl">
-با باز کردن یک درخواست پول به این مخزن، شما موافقت می‌کنید که کارتان را تحت
-<a href="https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/">مجوز پروژه</a> به اشتراک بگذارید.
-همچنین موافقت می‌کنید که چنین مجوزی از کارتان بدهید چرا که برای اهداف چاپ ویرایش‌های
-آینده برای ben@ و schancon@ ضروری است.
-اگر تغییرات شما در نسخه چاپی اعمال شوند، شما در <a href="https://github.com/progit2-fa/progit2/blob/master/book/contributors.asc">لیست
-مشارکت کنندگان</a> خواهید بود.
-</p>
-<h1 dir="rtl">ارجاع یک مشکل</h1>
-<p dir="rtl">
-قبل از ارجاع یک مشکل، لطفاً بررسی کنید که پیشتر مشکل مشابهی در سیستم رهگیری باگ وجود نداشته باشد.
-</p><p dir="rtl">
-همچنین اگر این مشکل سابقاً روی سایت رسمی گیت مشاهده شده، لطفاً بازنگری کنید که آیا هنوز در این مخزن موجود است یا خیر.
-ممکن است پیش از این مشکل اصلاح شده باشد، اما تغییرات هنوز اعمال نشده باشند.
-</p>
-<h1 dir="rtl">اصلاحات کوچک</h1>
-<p dir="rtl">
-اشتباهات تایپی و واضح‌سازی‌های پایه در صورتی مورد موافقت ما قرار می‌گیرند که به
-صراحت محتوا را بهبود بخشند.
-شما همچنین می‌توانید یک ایشو باز کنید تا ما بررسی کنیم که آیا احتیاج است و اگر
-هست چگونه آنرا حل کنیم.
-</p><p dir="rtl">
-اگر پیش از این هرگز چنین کاری نکرده‌اید <a href="https://guides.github.com/introduction/flow/">راهنمای
-روندکاری</a> ممکن است برای شما سودمند
-باشد.
-</p>
-<h1 dir="rtl">بازنویسی‌های بزرگ</h1>
-<p dir="rtl">
-پیش از آنکه شروع کنید برای مبحث مورد نظر یک ایشو باز کنید.
-این تغییرات احتمالاً وابسته به طرز فکر اشخاص هستند و معمولاً فقط برای درصد کمی از
-افراد شفاف‌سازی می‌کنند و به ندرت ارزش زحمت و زمان قبول کردن را دارند.
-ویرایستارهای حرفه‌ای پیش از این، این مطالب را بارها بررسی کرده‌اند؛ بنابراین حتی
-اگر شما از ادبیات یا نوشتار کم‌وبیش بهتری برخوردارید احتمال اینکه متن شما آنقدر
-خوب باشد که ارزش ویرایش متقابل دریایی از متون مرتبط به خود (مثلاً در آن فصل) را
-داشته باشد بسیار کم است.
-</p>
-<h1 dir="rtl">اشکال</h1>
-<p dir="rtl">
-تصاویر این کتاب بوسیلهٔ <a href="https://www.sketchapp.com/">اسکچ ۳</a> و با <a href="diagram-source/progit.sketch">فایل
-اسکچ‌بوک نظیر</a> ساخته شده‌اند.
-</p><p dir="rtl">
-برای افزودن یک شکل:
-</p><p dir="rtl">
-1. یک صفحه به اسکچ‌بوک اضافه کنید.
-سعی کنید که هرجا که ممکن است از سمبل‌های از پیش اضافه شده استفاده کنید.
-<br>
-2. یک «اسلایس» به صفحه خود اضافه کنید.
-به آن یک نام بدهید که به نام فایل پی‌ان‌جی مقصد و آدرس نسبی که از روت سورس دایرکتوری
-دارد بخورد.
-<br>
-3. اطمینان حاصل کنید که اسلایس شما برای خروجی گرفتن به صورت روبرو تنظیم شده
-باشد: 800w
-</p>
-<h1 dir="rtl">ترجمه‌ها</h1>
-<p dir="rtl">
-اگر می‌خواهید در ترجمه پروگیت به زبان خودتان کمک کنید نگاهی به <a href="https://github.com/progit2-fa/progit2/blob/master/TRANSLATING.md">فایل راهنمای ترجمه</a> بیاندازید.
-</p>
+## Signaling an Issue
+
+Search for similar issues, before creating a new issue.
+
+Also, if this issue has been spotted on the git-scm.com site, cross-check that the issue is present in the pdf version.
+The issue may have already been corrected in the source files, but not yet deployed to the git-scm.com site.
+
+## Small Corrections
+
+Errata and basic clarifications will be accepted if we agree that they improve the content.
+You can also open an issue so that we can discuss how or if the issue needs to be addressed.
+
+If you've never done this before, the [flow guide](https://docs.github.com/en/get-started/quickstart/github-flow) might be useful.
+
+## Large Rewrites
+
+Open an issue for discussion before you start.
+A large rewrite tends to be very subjective, often only clarifying things for a small amount of readers.
+Professional copy editors have already reviewed this content multiple times.
+It's unlikely that your prose is going to be *so* much better that it's worth changing large portions of text.
+
+## Figures
+
+The images in this book are generated using [Sketch 3](https://www.sketch.com/), with the [included sketchbook file](diagram-source/progit.sketch).
+
+To create a figure:
+
+1. Add a page to the sketchbook.
+Use the included symbols wherever possible.
+2. Add a "slice" to your page.
+Name the slice so that it matches the destination PNG filename, relative from the root of the source directory.
+3. Set your slice to export at "800w".
+
+## Translations
+
+If you want to contribute to translating Pro Git into your language, take a look at [TRANSLATING.md](TRANSLATING.md).
