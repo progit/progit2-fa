@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8867bbe-9903-4db0-a159-f9862e2f5a6f" name="Changes" comment="" />
+    <list default="true" id="a8867bbe-9903-4db0-a159-f9862e2f5a6f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/book/03-git-branching/sections/nutshell.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/03-git-branching/sections/nutshell.asc" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,12 +53,16 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="book/translation/02-git-basics" />
-                    <option name="lastUsedInstant" value="1753354739" />
+                    <option name="branchName" value="book/translation/03-git-branching" />
+                    <option name="lastUsedInstant" value="1753785441" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="refactor/progit2" />
-                    <option name="lastUsedInstant" value="1753354693" />
+                    <option name="lastUsedInstant" value="1753785382" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="book/translation/02-git-basics" />
+                    <option name="lastUsedInstant" value="1753354739" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="book/translation/01-introduction" />
@@ -93,7 +99,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "book/translation/02-git-basics",
+    "git-widget-placeholder": "book/translation/03-git-branching",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -130,6 +136,7 @@
       <workItem from="1749298085394" duration="7252000" />
       <workItem from="1751981411849" duration="1000" />
       <workItem from="1753351668457" duration="11136000" />
+      <workItem from="1753782768574" duration="5307000" />
     </task>
     <servers />
   </component>
