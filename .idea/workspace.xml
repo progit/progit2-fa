@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8867bbe-9903-4db0-a159-f9862e2f5a6f" name="Changes" comment="" />
+    <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,29 +22,6 @@
   }
 }</component>
   <component name="GitToolBoxStore">
-    <option name="branchesCleanupHistory">
-      <BranchesCleanupHistory>
-        <option name="history">
-          <list>
-            <BranchCleanupEntry>
-              <option name="deletions">
-                <list>
-                  <BranchDeletion>
-                    <option name="hash" value="2c52df416ddb2f8025644a1862467aeab1b63da6" />
-                    <option name="name" value="hotfix/github-configuartion-signup-form" />
-                  </BranchDeletion>
-                  <BranchDeletion>
-                    <option name="hash" value="dad53c0023e7fafdaed1ada3a095b00471daa741" />
-                    <option name="name" value="chore/06-github-farsi" />
-                  </BranchDeletion>
-                </list>
-              </option>
-              <option name="timestamp" value="1749300507643" />
-            </BranchCleanupEntry>
-          </list>
-        </option>
-      </BranchesCleanupHistory>
-    </option>
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -51,20 +30,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="book/translation/02-git-basics" />
-                    <option name="lastUsedInstant" value="1753354739" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="refactor/progit2" />
-                    <option name="lastUsedInstant" value="1753354693" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="book/translation/01-introduction" />
-                    <option name="lastUsedInstant" value="1749305429" />
+                    <option name="branchName" value="book/translation/03-git-branching" />
+                    <option name="lastUsedInstant" value="1754249158" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1748257024" />
+                    <option name="lastUsedInstant" value="1754249157" />
                   </RecentBranch>
                 </list>
               </option>
@@ -82,62 +53,54 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
+  &quot;associatedIndex&quot;: 0
 }</component>
-  <component name="ProjectId" id="2xKH4gryIvGmLfvA0jtvfPiYH8Y" />
+  <component name="ProjectId" id="2tqwFhKA1hTH84sUwF0Cu6GZX2h" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "book/translation/02-git-basics",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;book/translation/03-git-branching&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mac/Projects/WebstormProjects/Github/progit2-fa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.27812.50" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a8867bbe-9903-4db0-a159-f9862e2f5a6f" name="Changes" comment="" />
-      <created>1747679656503</created>
+      <changelist id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="" />
+      <created>1741092810677</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1747679656503</updated>
-      <workItem from="1747679657723" duration="670000" />
-      <workItem from="1747680338294" duration="818000" />
-      <workItem from="1747811228021" duration="5737000" />
-      <workItem from="1748005015264" duration="1475000" />
-      <workItem from="1748110021712" duration="1069000" />
-      <workItem from="1748111097776" duration="2930000" />
-      <workItem from="1748256551560" duration="1003000" />
-      <workItem from="1748330691740" duration="315000" />
-      <workItem from="1748601525042" duration="83000" />
-      <workItem from="1748603294411" duration="2858000" />
-      <workItem from="1749298085394" duration="7252000" />
-      <workItem from="1751981411849" duration="1000" />
-      <workItem from="1753351668457" duration="11136000" />
+      <updated>1741092810677</updated>
+      <workItem from="1741092814064" duration="774000" />
+      <workItem from="1741093601871" duration="422000" />
+      <workItem from="1754248817597" duration="214000" />
+      <workItem from="1754249033952" duration="711000" />
+      <workItem from="1754295774641" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
-    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
