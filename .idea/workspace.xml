@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="" />
+    <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/sections/5-scripting.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/sections/5-scripting.asc" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +41,17 @@
                 </list>
               </option>
               <option name="timestamp" value="1754988527286" />
+            </BranchCleanupEntry>
+            <BranchCleanupEntry>
+              <option name="deletions">
+                <list>
+                  <BranchDeletion>
+                    <option name="hash" value="b1ba38f91f7fb990cc697a13309e2737f65f4359" />
+                    <option name="name" value="book/translation/05-distributed-git" />
+                  </BranchDeletion>
+                </list>
+              </option>
+              <option name="timestamp" value="1755631405768" />
             </BranchCleanupEntry>
           </list>
         </option>
@@ -132,6 +146,9 @@
       <workItem from="1754736124061" duration="3674000" />
       <workItem from="1754985873748" duration="3567000" />
       <workItem from="1755502723693" duration="1436000" />
+      <workItem from="1755629596912" duration="2104000" />
+      <workItem from="1755677315267" duration="197000" />
+      <workItem from="1755679120902" duration="584000" />
     </task>
     <servers />
   </component>
