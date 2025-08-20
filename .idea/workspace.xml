@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/book/05-distributed-git/sections/maintaining.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/05-distributed-git/sections/maintaining.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/06-github/sections/5-scripting.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/sections/5-scripting.asc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,17 @@
               </option>
               <option name="timestamp" value="1754988527286" />
             </BranchCleanupEntry>
+            <BranchCleanupEntry>
+              <option name="deletions">
+                <list>
+                  <BranchDeletion>
+                    <option name="hash" value="b1ba38f91f7fb990cc697a13309e2737f65f4359" />
+                    <option name="name" value="book/translation/05-distributed-git" />
+                  </BranchDeletion>
+                </list>
+              </option>
+              <option name="timestamp" value="1755631405768" />
+            </BranchCleanupEntry>
           </list>
         </option>
       </BranchesCleanupHistory>
@@ -53,20 +65,16 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="book/translation/06-github" />
+                    <option name="lastUsedInstant" value="1755449148" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="book/translation/05-distributed-git" />
                     <option name="lastUsedInstant" value="1754727026" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="refactor/progit2" />
                     <option name="lastUsedInstant" value="1754726876" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="book/translation/04-git-server" />
-                    <option name="lastUsedInstant" value="1754464303" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="book/translation/03-git-branching" />
-                    <option name="lastUsedInstant" value="1754249158" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -100,7 +108,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;book/translation/05-distributed-git&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;book/translation/06-github&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/mac/Projects/WebstormProjects/Github/progit2-fa&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -137,6 +145,10 @@
       <workItem from="1754656446960" duration="3907000" />
       <workItem from="1754736124061" duration="3674000" />
       <workItem from="1754985873748" duration="3567000" />
+      <workItem from="1755502723693" duration="1436000" />
+      <workItem from="1755629596912" duration="2104000" />
+      <workItem from="1755677315267" duration="197000" />
+      <workItem from="1755679120902" duration="584000" />
     </task>
     <servers />
   </component>
