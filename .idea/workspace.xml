@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/06-github/sections/5-scripting.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/06-github/sections/5-scripting.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/07-git-tools/sections/submodules.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/07-git-tools/sections/submodules.asc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,17 @@
               </option>
               <option name="timestamp" value="1755631405768" />
             </BranchCleanupEntry>
+            <BranchCleanupEntry>
+              <option name="deletions">
+                <list>
+                  <BranchDeletion>
+                    <option name="hash" value="9b9f02b3f365e0cbdedd8687692124aae3da4c57" />
+                    <option name="name" value="book/translation/06-github" />
+                  </BranchDeletion>
+                </list>
+              </option>
+              <option name="timestamp" value="1756802434019" />
+            </BranchCleanupEntry>
           </list>
         </option>
       </BranchesCleanupHistory>
@@ -65,12 +76,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="book/translation/06-github" />
-                    <option name="lastUsedInstant" value="1755449148" />
+                    <option name="branchName" value="book/translation/07-git-tools" />
+                    <option name="lastUsedInstant" value="1755687743" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="book/translation/05-distributed-git" />
-                    <option name="lastUsedInstant" value="1754727026" />
+                    <option name="branchName" value="book/translation/06-github" />
+                    <option name="lastUsedInstant" value="1755449148" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="refactor/progit2" />
@@ -107,8 +118,9 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;book/translation/06-github&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;book/translation/07-git-tools&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/mac/Projects/WebstormProjects/Github/progit2-fa&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -124,7 +136,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.27812.50" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
       </set>
     </attachedChunks>
   </component>
@@ -149,6 +161,12 @@
       <workItem from="1755629596912" duration="2104000" />
       <workItem from="1755677315267" duration="197000" />
       <workItem from="1755679120902" duration="584000" />
+      <workItem from="1755889337187" duration="1323000" />
+      <workItem from="1756192555842" duration="475000" />
+      <workItem from="1756236194987" duration="2335000" />
+      <workItem from="1756368644161" duration="6608000" />
+      <workItem from="1756651368180" duration="1278000" />
+      <workItem from="1756797841758" duration="2249000" />
     </task>
     <servers />
   </component>
