@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/08-customizing-git/sections/config.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/08-customizing-git/sections/config.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/08-customizing-git/sections/policy.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/08-customizing-git/sections/policy.asc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,17 @@
                 </list>
               </option>
               <option name="timestamp" value="1756802434019" />
+            </BranchCleanupEntry>
+            <BranchCleanupEntry>
+              <option name="deletions">
+                <list>
+                  <BranchDeletion>
+                    <option name="hash" value="bb3ea50eebfecd6c39ae477e7e9a2ed3005988d4" />
+                    <option name="name" value="book/translation/07-git-tools" />
+                  </BranchDeletion>
+                </list>
+              </option>
+              <option name="timestamp" value="1757403446258" />
             </BranchCleanupEntry>
           </list>
         </option>
@@ -169,6 +179,7 @@
       <workItem from="1756797841758" duration="2249000" />
       <workItem from="1757231700506" duration="1734000" />
       <workItem from="1757333632682" duration="1080000" />
+      <workItem from="1757343642265" duration="5688000" />
     </task>
     <servers />
   </component>
