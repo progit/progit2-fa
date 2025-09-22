@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/book/10-git-internals/sections/maintenance.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/10-git-internals/sections/maintenance.asc" afterDir="false" />
-    </list>
+    <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,6 +185,7 @@
       <workItem from="1757832958644" duration="1276000" />
       <workItem from="1757942676617" duration="434000" />
       <workItem from="1758285287928" duration="1055000" />
+      <workItem from="1758370272526" duration="1720000" />
     </task>
     <servers />
   </component>
