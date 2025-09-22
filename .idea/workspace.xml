@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/client-svn.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/09-git-and-other-scms/sections/client-svn.asc" afterDir="false" />
-    </list>
+    <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +84,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="book/translation/10-git-internals" />
+                    <option name="lastUsedInstant" value="1757936795" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="book/translation/09-git-and-other-scms" />
                     <option name="lastUsedInstant" value="1757694857" />
                   </RecentBranch>
@@ -130,7 +132,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;book/translation/09-git-and-other-scms&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;book/translation/10-git-internals&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/mac/Projects/WebstormProjects/Github/progit2-fa&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -181,6 +183,9 @@
       <workItem from="1757333632682" duration="1080000" />
       <workItem from="1757343642265" duration="5688000" />
       <workItem from="1757832958644" duration="1276000" />
+      <workItem from="1757942676617" duration="434000" />
+      <workItem from="1758285287928" duration="1055000" />
+      <workItem from="1758370272526" duration="1720000" />
     </task>
     <servers />
   </component>
