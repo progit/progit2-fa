@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/book/dedication.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/dedication.asc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/introduction.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/introduction.asc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/license.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/license.asc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/preface_schacon.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/preface_schacon.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-git-in-other-environments.asc" beforeDir="false" afterPath="$PROJECT_DIR$/A-git-in-other-environments.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B-embedding-git-in-your-applications.asc" beforeDir="false" afterPath="$PROJECT_DIR$/B-embedding-git-in-your-applications.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C-git-commands.asc" beforeDir="false" afterPath="$PROJECT_DIR$/C-git-commands.asc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +88,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="book/translation/sections-overview" />
+                    <option name="lastUsedInstant" value="1758698296" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="book/translation/book-overview" />
                     <option name="lastUsedInstant" value="1758697901" />
                   </RecentBranch>
@@ -103,10 +106,6 @@
                   <RecentBranch>
                     <option name="branchName" value="book/translation/A-git-in-other-environments" />
                     <option name="lastUsedInstant" value="1758528770" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="book/translation/10-git-internals" />
-                    <option name="lastUsedInstant" value="1757936795" />
                   </RecentBranch>
                 </list>
               </option>
@@ -137,7 +136,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "book/translation/book-overview",
+    "git-widget-placeholder": "book/translation/sections-overview",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/Users/mac/Projects/WebstormProjects/Github/progit2-fa",
     "node.js.detected.package.eslint": "true",
@@ -197,5 +196,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="translate(book-overview): translated dedication to persian" />
+    <MESSAGE value="translate(book-overview): translated introduction to persian" />
+    <MESSAGE value="translate(book-overview): translated license to persian" />
+    <MESSAGE value="translate(book-overview): translated preface_schacon to persian" />
+    <option name="LAST_COMMIT_MESSAGE" value="translate(book-overview): translated preface_schacon to persian" />
   </component>
 </project>
