@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="" />
+    <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/book/dedication.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/dedication.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/introduction.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/introduction.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/license.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/license.asc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/preface_schacon.asc" beforeDir="false" afterPath="$PROJECT_DIR$/book/preface_schacon.asc" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,24 +89,24 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="book/translation/book-overview" />
+                    <option name="lastUsedInstant" value="1758697901" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="refactor/progit2" />
+                    <option name="lastUsedInstant" value="1758696880" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="book/translation/B-embedding-git" />
+                    <option name="lastUsedInstant" value="1758636150" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="book/translation/A-git-in-other-environments" />
                     <option name="lastUsedInstant" value="1758528770" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="book/translation/10-git-internals" />
                     <option name="lastUsedInstant" value="1757936795" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="book/translation/09-git-and-other-scms" />
-                    <option name="lastUsedInstant" value="1757694857" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="book/translation/08-customizing-git" />
-                    <option name="lastUsedInstant" value="1756889525" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="refactor/progit2" />
-                    <option name="lastUsedInstant" value="1754726876" />
                   </RecentBranch>
                 </list>
               </option>
@@ -132,7 +137,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "book/translation/A-git-in-other-environments",
+    "git-widget-placeholder": "book/translation/book-overview",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/Users/mac/Projects/WebstormProjects/Github/progit2-fa",
     "node.js.detected.package.eslint": "true",
@@ -186,6 +191,7 @@
       <workItem from="1757942676617" duration="434000" />
       <workItem from="1758285287928" duration="1055000" />
       <workItem from="1758370272526" duration="1720000" />
+      <workItem from="1758633712676" duration="5418000" />
     </task>
     <servers />
   </component>
