@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="translate(sections-overview): translated B-embedding-git-in-your-applications to persian">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C-git-commands.asc" beforeDir="false" afterPath="$PROJECT_DIR$/C-git-commands.asc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YasinDehfuli&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="branchesCleanupHistory">
+      <BranchesCleanupHistory>
+        <option name="history">
+          <list>
+            <BranchCleanupEntry>
+              <option name="deletions">
+                <list>
+                  <BranchDeletion>
+                    <option name="hash" value="b51d5a061630477a2309aad5b7c9125794fc4f43" />
+                    <option name="name" value="book/translation/03-git-branching" />
+                  </BranchDeletion>
+                  <BranchDeletion>
+                    <option name="hash" value="ad871bca699585ab73694cab2f276a59182f47ee" />
+                    <option name="name" value="book/translation/04-git-server" />
+                  </BranchDeletion>
+                </list>
+              </option>
+              <option name="timestamp" value="1754988527286" />
+            </BranchCleanupEntry>
+            <BranchCleanupEntry>
+              <option name="deletions">
+                <list>
+                  <BranchDeletion>
+                    <option name="hash" value="b1ba38f91f7fb990cc697a13309e2737f65f4359" />
+                    <option name="name" value="book/translation/05-distributed-git" />
+                  </BranchDeletion>
+                </list>
+              </option>
+              <option name="timestamp" value="1755631405768" />
+            </BranchCleanupEntry>
+            <BranchCleanupEntry>
+              <option name="deletions">
+                <list>
+                  <BranchDeletion>
+                    <option name="hash" value="9b9f02b3f365e0cbdedd8687692124aae3da4c57" />
+                    <option name="name" value="book/translation/06-github" />
+                  </BranchDeletion>
+                </list>
+              </option>
+              <option name="timestamp" value="1756802434019" />
+            </BranchCleanupEntry>
+            <BranchCleanupEntry>
+              <option name="deletions">
+                <list>
+                  <BranchDeletion>
+                    <option name="hash" value="bb3ea50eebfecd6c39ae477e7e9a2ed3005988d4" />
+                    <option name="name" value="book/translation/07-git-tools" />
+                  </BranchDeletion>
+                </list>
+              </option>
+              <option name="timestamp" value="1757403446258" />
+            </BranchCleanupEntry>
+          </list>
+        </option>
+      </BranchesCleanupHistory>
+    </option>
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="book/translation/sections-overview" />
+                    <option name="lastUsedInstant" value="1758698296" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="book/translation/book-overview" />
+                    <option name="lastUsedInstant" value="1758697901" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="refactor/progit2" />
+                    <option name="lastUsedInstant" value="1758696880" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="book/translation/B-embedding-git" />
+                    <option name="lastUsedInstant" value="1758636150" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="book/translation/A-git-in-other-environments" />
+                    <option name="lastUsedInstant" value="1758528770" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/progit/progit2-fa.git&quot;,
+    &quot;accountId&quot;: &quot;5ae9ad02-fb63-4714-a1b4-a94eef1d4d41&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2tqwFhKA1hTH84sUwF0Cu6GZX2h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;book/translation/sections-overview&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mac/Projects/WebstormProjects/Github/progit2-fa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46cbadee-a08d-4f2c-a07d-a3871eab5c16" name="Changes" comment="" />
+      <created>1741092810677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741092810677</updated>
+      <workItem from="1741092814064" duration="774000" />
+      <workItem from="1741093601871" duration="422000" />
+      <workItem from="1754248817597" duration="214000" />
+      <workItem from="1754249033952" duration="711000" />
+      <workItem from="1754295774641" duration="3000" />
+      <workItem from="1754403607475" duration="5254000" />
+      <workItem from="1754656446960" duration="3907000" />
+      <workItem from="1754736124061" duration="3674000" />
+      <workItem from="1754985873748" duration="3567000" />
+      <workItem from="1755502723693" duration="1436000" />
+      <workItem from="1755629596912" duration="2104000" />
+      <workItem from="1755677315267" duration="197000" />
+      <workItem from="1755679120902" duration="584000" />
+      <workItem from="1755889337187" duration="1323000" />
+      <workItem from="1756192555842" duration="475000" />
+      <workItem from="1756236194987" duration="2335000" />
+      <workItem from="1756368644161" duration="6608000" />
+      <workItem from="1756651368180" duration="1278000" />
+      <workItem from="1756797841758" duration="2249000" />
+      <workItem from="1757231700506" duration="1734000" />
+      <workItem from="1757333632682" duration="1080000" />
+      <workItem from="1757343642265" duration="5688000" />
+      <workItem from="1757832958644" duration="1276000" />
+      <workItem from="1757942676617" duration="434000" />
+      <workItem from="1758285287928" duration="1055000" />
+      <workItem from="1758370272526" duration="1720000" />
+      <workItem from="1758633712676" duration="5418000" />
+      <workItem from="1758718956298" duration="169000" />
+    </task>
+    <task id="LOCAL-00001" summary="translate(sections-overview): translated A-git-in-other-environments to persian">
+      <option name="closed" value="true" />
+      <created>1758699199538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758699199538</updated>
+    </task>
+    <task id="LOCAL-00002" summary="translate(sections-overview): translated B-embedding-git-in-your-applications to persian">
+      <option name="closed" value="true" />
+      <created>1758699223924</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758699223924</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="translate(book-overview): translated dedication to persian" />
+    <MESSAGE value="translate(book-overview): translated introduction to persian" />
+    <MESSAGE value="translate(book-overview): translated license to persian" />
+    <MESSAGE value="translate(book-overview): translated preface_schacon to persian" />
+    <option name="LAST_COMMIT_MESSAGE" value="translate(book-overview): translated preface_schacon to persian" />
+  </component>
+</project>
